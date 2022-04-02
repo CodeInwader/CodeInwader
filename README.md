@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeInwader
 - 👀 I’m interested in Game Development in Unity
-- 🌱 I’m currently learning C#, Python, Swift
+- 🌱 I’m currently learning C#
 
 <!---
 CodeInwader/CodeInwader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
