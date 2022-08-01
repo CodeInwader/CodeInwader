@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @CodeInwader
-- 👀 I’m interested in Game Development in Unity
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Game Development, AI and web design.
+- 📚 I’m currently learning:
+  1. C# with Unity Engine👾
+  2. Python🐍
+  3. HTML, CSS, Java Script👨‍💻
+
 
 <!---
 CodeInwader/CodeInwader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
