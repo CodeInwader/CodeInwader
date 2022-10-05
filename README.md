@@ -3,7 +3,7 @@
 - 📚 I’m currently learning:
   1. C# with Unity Engine👾
   2. Python🐍
-  3. HTML, CSS, Java Script👨‍💻
+  3. HTML, CSS, JavaScript👨‍💻
 
 
 <!---
