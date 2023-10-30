@@ -2,7 +2,6 @@
 - 👀 I’m interested in Game Development, AI and web design.
 - 📚 I’m currently learning:
   1. C# with Unity Engine👾
-  2. Python🐍
   3. HTML, CSS, JavaScript👨‍💻
 
 
