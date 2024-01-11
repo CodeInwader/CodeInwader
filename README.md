@@ -3,6 +3,7 @@
 - 📚 I’m currently learning:
   1. C# with Unity Engine👾
   2. HTML, CSS, JavaScript👨‍💻
+  3. Stock trading
 
 
 <!---
