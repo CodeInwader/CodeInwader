@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @CodeInwader
 - 👀 I’m interested in Game Development, web-backend and investing.
 - 📚 I’m currently learning:
-  1. C# with Unity Engine👾
-  2. HTML, CSS, JavaScript👨‍💻
-  3. Stock trading
+  1. C# with Unity Engine 👾
+  2. HTML, CSS, JavaScript 👨‍💻
+  3. Stock trading 📈
 
 
 <!---
