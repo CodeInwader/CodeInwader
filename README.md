@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CodeInwader
-- 👀 I’m interested in Game Development, AI and web design.
+- 👀 I’m interested in Game Development, web-backend and investing.
 - 📚 I’m currently learning:
   1. C# with Unity Engine👾
-  3. HTML, CSS, JavaScript👨‍💻
+  2. HTML, CSS, JavaScript👨‍💻
 
 
 <!---
